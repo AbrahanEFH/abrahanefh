@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abrahandev-portfolio.netlify.app/](https://abrahandev-portfolio.netlify.app/)
 
-- 📫 How to reach me **Abrahandev@gmail.com**
+- 📫 How to reach me: **Abrahandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
